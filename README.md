@@ -1,4 +1,4 @@
-DDD guideline
+# DDD guideline
 
 Terminology
 Domain: a sphere of knowledge, influence or activity around which the application logic resolves.
